@@ -1,2 +1,2 @@
-# huffman-encoding
-Simple huffman encoding tree
+# Huffman Encoding
+Implements text file compression using Huffman Encoding. 
